@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76727710233",
+    "firebase_url": "https://rock-n-folk-app.firebaseio.com",
+    "project_id": "rock-n-folk-app",
+    "storage_bucket": "rock-n-folk-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76727710233:android:2d3d4a406d11b165683088",
+        "android_client_info": {
+          "package_name": "com.bacon.expo.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76727710233-lk3e2p9d5rev4uufsu63f573j6r6bqee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv1y9_cUYqG6y_EKI3B5c52MMwuPx3FIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76727710233-lk3e2p9d5rev4uufsu63f573j6r6bqee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76727710233-09e1gruf95t7lf15kl2mt6tmf1juavtt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rock-n-folk-app.firebaseapp.com",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

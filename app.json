@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "rock_n_folk_app",
+    "slug": "rock_n_folk_app",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bacon.expo.googlesignin",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.76727710233-3ak6ngtu6dag79ddtn0l0mcm1pa5ucks"
+        }
+      }
+    },
+    "android": {
+      "package": "com.bacon.expo.googlesignin",
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": ""
+  }
+}
